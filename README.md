@@ -2,11 +2,11 @@
 
 ## Executive Summary
 
-Using SQL and Tableau, I analyzed 22 months of daily U.S. Treasury cash data — 463 business days of balances and ~83,000 category-level transactions — to understand how the government's operating cash account (the TGA) behaves: what drives it, how volatile it is, and how much cash it should hold. After finding that the balance swung 4x in the period and that the worst outflow days are concentrated and predictable, I recommend:
+Using SQL and Tableau, I analyzed 22 months of daily U.S. Treasury cash data — 463 business days of balances and 83,000 category-level transactions to understand how the government's operating cash account (the TGA) behaves: what drives it, how volatile it is, and how much cash it should hold. After finding that the balance swung 4x in the period and that the worst outflow days are concentrated and predictable, I recommend:
 
-1. A minimum cash buffer of ~$200B (about one week of outflows), based on the worst 5-day drawdown observed
+1. A minimum cash buffer of $200B (about one week of outflows), based on the worst 5-day drawdown observed
 2. Planning liquidity around the payment calendar — the largest single-day outflows all fall on month-start payment dates
-3. Treating tax-deadline months (Apr, Jun, Jan, Sep) as structural inflow peaks, since the pattern repeated across both years
+3. Treating tax-deadline months (Apr, Jun, Jan, Sep) as structural inflow peaks since the pattern repeated across both years
 
 **[▶ View the live interactive dashboard](https://public.tableau.com/app/profile/kavya.gupta8031/viz/U_S_TreasuryCashLiquidityDashboard/Dashboard1)**
 
