@@ -48,4 +48,4 @@ The recommendation: hold a minimum buffer of roughly **$200B — about one week 
 ## How to Reach Me
 
 **Kavya Gupta**
-[LinkedIn](https://www.linkedin.com/in/kavyagupta2025/) · guptakavya340@gmail.com · +1 [9193581457]
+[LinkedIn](https://www.linkedin.com/in/kavyagupta2025/) · guptakavya340@gmail.com · +1 9193581457
