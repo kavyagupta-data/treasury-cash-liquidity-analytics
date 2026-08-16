@@ -1,0 +1,186 @@
+category,txn_type,total_amount
+Corporation for Public Broadcasting,Withdrawals,587.0
+DHS - Customs & Border Protection (CBP),Withdrawals,134947.0
+"DHS - Customs Duties, Taxes, and Fees",Deposits,244670.0
+DHS - Customs and Certain Excise Taxes,Deposits,251518.0
+DHS - Fed Emergency Mgmt Agency (FEMA),Deposits,7876.0
+DHS - Fed Emergency Mgmt Agency (FEMA),Withdrawals,81089.0
+DHS - Seized Assets,Deposits,1887.0
+DHS - Transportation Security Admn (TSA),Deposits,8924.0
+DHS - Transportation Security Admn (TSA),Withdrawals,4735.0
+DOI - Fish and Wildlife and Parks,Deposits,1742.0
+DOI - Fish and Wildlife and Parks,Withdrawals,10211.0
+DOI - Gas and Oil Lease Sales Proceeds,Deposits,28565.0
+DOI - Land and Minerals Management,Deposits,6913.0
+DOI - Land and Minerals Management,Withdrawals,5381.0
+DOI - Water and Science,Deposits,1536.0
+DOI - Water and Science,Withdrawals,7185.0
+DOL - Pension Benefit Guaranty Corp.,Deposits,20611.0
+DOL - Pension Benefit Guaranty Corp.,Withdrawals,22755.0
+DOL - Unemployment Benefits,Withdrawals,74021.0
+DOT - Federal Aviation Administration,Withdrawals,25851.0
+DOT - Federal Highway Administration,Withdrawals,125026.0
+DOT - Federal Railroad Administration,Withdrawals,14115.0
+DOT - Federal Transit Administration,Withdrawals,42355.0
+Dept of Agriculture (USDA) - misc,Deposits,7928.0
+Dept of Agriculture (USDA) - misc,Withdrawals,53029.0
+Dept of Commerce (DOC),Deposits,10844.0
+Dept of Commerce (DOC),Withdrawals,32915.0
+Dept of Defense (DoD) - misc,Deposits,36820.0
+Dept of Defense (DoD) - misc,Withdrawals,893159.0
+Dept of Education (ED),Deposits,121786.0
+Dept of Education (ED),Withdrawals,363470.0
+Dept of Energy (DOE),Deposits,18012.0
+Dept of Energy (DOE),Withdrawals,114817.0
+Dept of Health & Human Serv (HHS) - misc,Deposits,13854.0
+Dept of Health & Human Serv (HHS) - misc,Withdrawals,15841.0
+Dept of Homeland Security (DHS) - misc,Deposits,16536.0
+Dept of Homeland Security (DHS) - misc,Withdrawals,42837.0
+Dept of Housing & Urban Dev (HUD) - misc,Deposits,11225.0
+Dept of Housing & Urban Dev (HUD) - misc,Withdrawals,162597.0
+Dept of Interior (DOI) - misc,Deposits,2518.0
+Dept of Interior (DOI) - misc,Withdrawals,31829.0
+Dept of Justice (DOJ),Deposits,22929.0
+Dept of Justice (DOJ),Withdrawals,46041.0
+Dept of Labor (DOL) - misc,Deposits,1148.0
+Dept of Labor (DOL) - misc,Withdrawals,34341.0
+Dept of State (DOS),Deposits,17213.0
+Dept of State (DOS),Withdrawals,44495.0
+Dept of Transportation (DOT),Deposits,4904.0
+Dept of Transportation (DOT) - misc,Withdrawals,9823.0
+Dept of Treasury (TREAS) - misc,Deposits,11297.0
+Dept of Treasury (TREAS) - misc,Withdrawals,19483.0
+Dept of Veterans Affairs (VA),Deposits,17984.0
+Dept of Veterans Affairs (VA),Withdrawals,210190.0
+District of Columbia,Deposits,789.0
+District of Columbia,Withdrawals,959.0
+DoD - Health,Deposits,5324.0
+DoD - Health,Withdrawals,56323.0
+DoD - Military Active Duty Pay,Withdrawals,205815.0
+DoD - Military Retirement,Withdrawals,138356.0
+ESF - Economic Recovery Programs,Withdrawals,-1499.0
+Environmental Protection Agency (EPA),Deposits,948.0
+Environmental Protection Agency (EPA),Withdrawals,49609.0
+Export-Import Bank,Deposits,3265.0
+Export-Import Bank,Withdrawals,1252.0
+FCC - Universal Service Fund,Deposits,15775.0
+FCC - Universal Service Fund,Withdrawals,16047.0
+Federal Communications Commission (FCC),Deposits,6901.0
+Federal Communications Commission (FCC),Withdrawals,4012.0
+Federal Deposit Insurance Corp (FDIC),Deposits,47741.0
+Federal Deposit Insurance Corp (FDIC),Withdrawals,1898.0
+Federal Reserve Earnings,Deposits,13959.0
+Federal Retirement Thrift Savings Plan,Deposits,181568.0
+Federal Retirement Thrift Savings Plan,Withdrawals,148140.0
+Federal Salaries (EFT),Withdrawals,461743.0
+Federal Trade Commission (FTC),Deposits,2336.0
+Federal Trade Commission (FTC),Withdrawals,672.0
+General Services Administration (GSA),Deposits,4186.0
+General Services Administration (GSA),Withdrawals,67622.0
+HHS - Centers for Disease Control (CDC),Withdrawals,23631.0
+HHS - Federal Hospital Insr Trust Fund,Withdrawals,833583.0
+HHS - Federal Supple Med Insr Trust Fund,Withdrawals,1105689.0
+HHS - Grants to States for Medicaid,Withdrawals,1261853.0
+HHS - Health Resources & Services Admin,Withdrawals,25737.0
+HHS - Indian Health Service,Withdrawals,18262.0
+HHS - Marketplace Payments,Withdrawals,250305.0
+HHS - Marketplace Receipts,Deposits,10187.0
+HHS - Medicare Premiums,Deposits,117500.0
+HHS - Medicare Prescription Drugs,Withdrawals,340647.0
+HHS - National Institutes of Health,Withdrawals,80239.0
+HHS - Other Public Health Services,Withdrawals,18583.0
+HHS - Othr Admin for Children & Families,Withdrawals,48953.0
+HHS - Othr Cent Medicare & Medicaid Serv,Withdrawals,97555.0
+HHS - Payments to Children and Families,Withdrawals,24841.0
+HHS - Payments to States,Withdrawals,30407.0
+HHS - Temp Assistance for Needy Families,Withdrawals,32598.0
+HUD - Federal Housing Admin (FHA),Deposits,44623.0
+HUD - Federal Housing Admin (FHA),Withdrawals,28860.0
+IAP - Agency for Int'l Development (AID),Deposits,66.0
+IAP - Agency for Int'l Development (AID),Withdrawals,20343.0
+IAP - Foreign Military Sales,Deposits,91445.0
+IAP - Foreign Military Sales,Withdrawals,58164.0
+IAP - Multilateral Assistance,Withdrawals,3656.0
+IAP - US Int'l Devlop Finance Corp (DFC),Deposits,5083.0
+IAP - US Int'l Devlop Finance Corp (DFC),Withdrawals,5008.0
+Independent Agencies - misc,Deposits,8755.0
+Independent Agencies - misc,Withdrawals,13097.0
+Int'l Assistance Programs (IAP) - misc,Deposits,168.0
+Int'l Assistance Programs (IAP) - misc,Withdrawals,8108.0
+Interest on Treasury Securities,Withdrawals,1176941.0
+International Monetary Fund (IMF),Deposits,10387.0
+International Monetary Fund (IMF),Withdrawals,26225.0
+Judicial Branch - Courts,Deposits,5693.0
+Judicial Branch - Courts,Withdrawals,6446.0
+Legislative Branch - Library of Congress,Deposits,380.0
+Legislative Branch - Library of Congress,Withdrawals,867.0
+Legislative Branch - misc,Deposits,67.0
+Legislative Branch - misc,Withdrawals,3540.0
+NASA,Withdrawals,39600.0
+National Credit Union Admin (NCUA),Deposits,2268.0
+National Credit Union Admin (NCUA),Withdrawals,701.0
+National Science Foundation (NSF),Deposits,63.0
+National Science Foundation (NSF),Withdrawals,16168.0
+OPM - Civil Serv Retirement & Disability,Withdrawals,161238.0
+OPM - Federal Employee Insurance Payment,Withdrawals,150333.0
+OPM - Federal Employee Insurance Receipt,Deposits,6253.0
+Office of Personnel Mgmt (OPM) - misc,Deposits,0.0
+Office of Personnel Mgmt (OPM) - misc,Withdrawals,523.0
+Public Debt Cash Issues (Table IIIB),Deposits,58420898.0
+Public Debt Cash Redemp. (Table IIIB),Withdrawals,55348878.0
+RRB - Benefit Payments,Withdrawals,29151.0
+RRB - Natl Railroad Retirement Inv Trust,Deposits,2559.0
+RRB - Unemployment Insurance,Deposits,69.0
+Railroad Retirement Board (RRB) - misc,Withdrawals,63.0
+SSA - Benefits Payments,Withdrawals,2619630.0
+SSA - Supplemental Security Income,Deposits,6695.0
+SSA - Supplemental Security Income,Withdrawals,124946.0
+Securities and Exchange Commission (SEC),Deposits,7835.0
+Securities and Exchange Commission (SEC),Withdrawals,2476.0
+Small Business Administration (SBA),Deposits,43332.0
+Small Business Administration (SBA),Withdrawals,13922.0
+Social Security Admin (SSA) - misc,Deposits,1903.0
+Social Security Admin (SSA) - misc,Withdrawals,8979.0
+State Unemployment Insurance Deposits,Deposits,86593.0
+TREAS - Bureau of Engraving and Printing,Deposits,1916.0
+TREAS - Bureau of Engraving and Printing,Withdrawals,1156.0
+TREAS - Claims Judgments and Relief Acts,Withdrawals,8276.0
+TREAS - Comptroller of the Currency,Deposits,2194.0
+TREAS - Comptroller of the Currency,Withdrawals,567.0
+TREAS - Federal Financing Bank,Deposits,8274.0
+TREAS - Federal Financing Bank,Withdrawals,44546.0
+TREAS - GSE Proceeds,Deposits,11396.0
+TREAS - IRS Refunds for Puerto Rico,Withdrawals,2034.0
+TREAS - Pmt to Resolution Funding Corp,Withdrawals,1840.0
+TREAS - United States Mint,Deposits,11748.0
+TREAS - United States Mint,Withdrawals,11110.0
+Taxes - Business Tax Refunds (EFT),Withdrawals,47219.0
+Taxes - Corporate Income,Deposits,788145.0
+Taxes - Estate and Gift,Deposits,46643.0
+Taxes - Federal Unemployment (FUTA),Deposits,17326.0
+"Taxes - IRS Collected Estate, Gift, misc",Deposits,20760.0
+Taxes - Individual Tax Refunds (EFT),Withdrawals,667195.0
+Taxes - Miscellaneous Excise,Deposits,186656.0
+Taxes - Non Withheld Ind/SECA Electronic,Deposits,1457173.0
+Taxes - Non Withheld Ind/SECA Other,Deposits,771513.0
+Taxes - Railroad Retirement,Deposits,13371.0
+Taxes - Withheld Individual/FICA,Deposits,6408486.0
+US Army Corps of Engineers,Deposits,3450.0
+US Army Corps of Engineers,Withdrawals,56930.0
+USDA - Child Nutrition,Withdrawals,60172.0
+USDA - Commodity Credit Corporation,Deposits,17436.0
+USDA - Commodity Credit Corporation,Withdrawals,22042.0
+USDA - Federal Crop Insurance Corp Fund,Deposits,4942.0
+USDA - Federal Crop Insurance Corp Fund,Withdrawals,32807.0
+USDA - Loan Payments,Withdrawals,14678.0
+USDA - Loan Repayments,Deposits,8669.0
+USDA - Other Farm Service,Withdrawals,36844.0
+USDA - Rural Services,Deposits,8448.0
+USDA - Rural Services,Withdrawals,11318.0
+USDA - Supp Nutrition Assist Prog (SNAP),Withdrawals,186118.0
+USDA - Supp Nutrition Assist Prog (WIC),Withdrawals,14376.0
+Unclassified,Withdrawals,489550.0
+Unclassified - Deposits,Deposits,9724.0
+United States Postal Service (USPS),Deposits,177980.0
+United States Postal Service (USPS),Withdrawals,75434.0
+VA - Benefits,Withdrawals,411409.0
